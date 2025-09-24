@@ -1,0 +1,9 @@
+*.o
+
+*.mod
+*.smod
+
+particle
+*.exe
+*.out
+
